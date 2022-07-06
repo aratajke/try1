@@ -1,1 +1,2 @@
 some text ver. 1
+some ter	VERSION @2222
